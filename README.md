@@ -14,9 +14,9 @@ Ex: for a $120 purchase, the customer receives
 
 ### Request
 
-`GET /GetRewardPoint?price={price}`
+`GET /GetRewardPoints?price={price}`
 
-    curl -i -H 'Accept: application/json' https://localhost:5001/api/rewards/GetRewardPoint?price=120
+    curl -i -H 'Accept: application/json' https://localhost:5001/api/rewards/GetRewardPoints?price=120
 
 ### Response
 
