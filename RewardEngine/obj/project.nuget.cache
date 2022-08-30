@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUVUpxbLbBa2gAd9sRK4W/rxiSo7I4FqSeOHXcPxtPFnGajcj4hLB3qvY0AnhakiCqlKoFBKV8T7D5c64N4d5A==",
+  "success": true,
+  "projectFilePath": "D:\\CustomerRewardProgram\\CustomerRewardProgram\\RewardEngine\\RewardEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lakshana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lakshana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lakshana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

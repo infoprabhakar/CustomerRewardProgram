@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RewardEngine/1.0.0": {
+        "dependencies": {
+          "Repository": "1.0.0",
+          "Rewards.Models": "1.0.0"
+        },
+        "runtime": {
+          "RewardEngine.dll": {}
+        }
+      },
+      "Repository/1.0.0": {
+        "dependencies": {
+          "Rewards.Models": "1.0.0"
+        },
+        "runtime": {
+          "Repository.dll": {}
+        }
+      },
+      "Rewards.Models/1.0.0": {
+        "runtime": {
+          "Rewards.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RewardEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rewards.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

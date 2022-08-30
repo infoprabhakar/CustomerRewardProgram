@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API.UnitTests\\Rewards.API.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\prabhakaran.arumugam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakaran.arumugam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\Rewards.Models.csproj": {
+                "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\Rewards.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\RewardEngine\\RewardEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\RewardEngine\\RewardEngine.csproj",
+        "projectName": "RewardEngine",
+        "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\RewardEngine\\RewardEngine.csproj",
+        "packagesPath": "C:\\Users\\prabhakaran.arumugam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\RewardEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakaran.arumugam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Repository\\Repository.csproj"
+              },
+              "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\Rewards.Models.csproj": {
+                "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\Rewards.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API.UnitTests\\Rewards.API.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API.UnitTests\\Rewards.API.UnitTests.csproj",
+        "projectName": "Rewards.API.UnitTests",
+        "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API.UnitTests\\Rewards.API.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\prabhakaran.arumugam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakaran.arumugam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API\\Rewards.API.csproj": {
+                "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API\\Rewards.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API\\Rewards.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API\\Rewards.API.csproj",
+        "projectName": "Rewards.API",
+        "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API\\Rewards.API.csproj",
+        "packagesPath": "C:\\Users\\prabhakaran.arumugam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakaran.arumugam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\RewardEngine\\RewardEngine.csproj": {
+                "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\RewardEngine\\RewardEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\Rewards.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\Rewards.Models.csproj",
+        "projectName": "Rewards.Models",
+        "projectPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\Rewards.Models.csproj",
+        "packagesPath": "C:\\Users\\prabhakaran.arumugam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prabhakaran.arumugam\\source\\repos\\CustomerRewardProgram\\Rewards.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prabhakaran.arumugam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
