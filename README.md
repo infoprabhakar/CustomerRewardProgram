@@ -71,9 +71,9 @@ Ex: for a $120 purchase, the customer receives
 
 ### Request
 
-`GET /GetRewardPointSummaryByDates?startDateTime={startdate}&endDateTime={enddate}
+`GET /GetRewardPointSummaryByDate?startDateTime={startdate}&endDateTime={enddate}
 
-    curl -i -H 'Accept: application/json' https://localhost:5001/api/rewards/GetRewardPointSummaryByDates?startDateTime=05/01/2022&endDateTime=08/31/2022
+    curl -i -H 'Accept: application/json' https://localhost:5001/api/rewards/GetRewardPointSummaryByDate?startDateTime=05/01/2022&endDateTime=08/31/2022
 
 ### Response
 
