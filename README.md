@@ -104,15 +104,15 @@ Ex: for a $120 purchase, the customer receives
 }
 
 
-### Postman GetRewardPointSummaryByDates Request
+### GetRewardPointSummaryByDates Postman Request
 ![GetRewardPointSummaryByDates](https://user-images.githubusercontent.com/14961097/188152980-3f1940eb-0a3a-4743-8303-0867ffae858c.JPG)
 
-### Customer List
+### Sample Customer List
 ![Customers](https://user-images.githubusercontent.com/14961097/188153046-db7c49d6-77b4-4e05-9f3a-a2f7665ea497.JPG)
 
-### Transaction List
+### Sample Transaction List
 ![Transactions](https://user-images.githubusercontent.com/14961097/188153075-642b39ad-d45f-4f67-95a0-2e2ad6df2c96.JPG)
 
-### GetRewardPointSummaryByDates Response
+### GetRewardPointSummaryByDates Response for above sample data
 ![Response](https://user-images.githubusercontent.com/14961097/188153112-0114bc57-5ef6-4280-8d84-e5657ad184ad.JPG)
 
